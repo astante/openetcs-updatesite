@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201310111232.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201310111232">
+   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201310111705.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201310111705">
       <category name="syml_to_b"/>
    </feature>
    <category-def name="syml_to_b" label="SysML to  Classical B Transformation"/>
