@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201310301721.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201310301721">
+   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201312021809.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201312021809">
       <category name="syml_to_b"/>
+   </feature>
+   <feature url="features/de.fraunhofer.esk.openetcs.datadictionary.feature_1.0.0.201312021809.jar" id="de.fraunhofer.esk.openetcs.datadictionary.feature" version="1.0.0.201312021809">
+      <category name="common"/>
    </feature>
    <category-def name="syml_to_b" label="SysML to  Classical B Transformation">
       <description>
          Transformation from SysML to Classical B
       </description>
    </category-def>
+   <category-def name="common" label="Common openETCS Plugins"/>
 </site>
