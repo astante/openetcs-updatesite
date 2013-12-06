@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201312060943.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201312060943">
+   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201312061751.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201312061751">
       <category name="syml_to_b"/>
    </feature>
-   <feature url="features/de.fraunhofer.esk.openetcs.datadictionary.feature_1.0.0.201312060943.jar" id="de.fraunhofer.esk.openetcs.datadictionary.feature" version="1.0.0.201312060943">
+   <feature url="features/de.fraunhofer.esk.openetcs.datadictionary.feature_1.0.0.201312061751.jar" id="de.fraunhofer.esk.openetcs.datadictionary.feature" version="1.0.0.201312061751">
       <category name="common"/>
    </feature>
    <category-def name="syml_to_b" label="SysML to  Classical B Transformation">
