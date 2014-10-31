@@ -63,4 +63,4 @@ After installation you can use the plugin by right clicking on a Papyrus model a
 [install-new-software]: https://raw.github.com/wiki/astante/openetcs-updatesite/images/install-new-software.png "Install New Software"
 [scade-updatesite]:  https://raw.github.com/wiki/astante/openetcs-updatesite/images/scade-udpatesite.png "Add Scade Update Site"
 [scade-plugins]: https://raw.github.com/wiki/astante/openetcs-updatesite/images/scade-plugins.png "Install Scade Plugins"
-[usage-scade-integration]: https://raw.github.com/wiki/astante/openetcs-updatesite/images/scade-plugins.png "Use Scade Integration"
+[usage-scade-integration]: https://raw.github.com/wiki/astante/openetcs-updatesite/images/usage-scade-integration.png "Use Scade Integration"
