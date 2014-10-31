@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.fraunhofer.esk.openetcs.sysml2b.feature_1.0.0.201402171705.jar" id="de.fraunhofer.esk.openetcs.sysml2b.feature" version="1.0.0.201402171705">
-      <category name="syml_to_b"/>
+   <feature url="features/org.openetcs.sysml2scade.suite.feature_0.1.0.201410311500.jar" id="org.openetcs.sysml2scade.suite.feature" version="0.1.0.201410311500">
+      <category name="scade_integration"/>
    </feature>
-   <feature url="features/org.openetcs.datadictionary.feature_1.0.0.201402171705.jar" id="org.openetcs.datadictionary.feature" version="1.0.0.201402171705">
-      <category name="common"/>
-   </feature>
-   <category-def name="syml_to_b" label="SysML to  Classical B Transformation">
-      <description>
-         Transformation from SysML to Classical B
-      </description>
-   </category-def>
-   <category-def name="common" label="Common openETCS Plugins"/>
+   <category-def name="scade_integration" label="OpenETCS Scade Integration"/>
 </site>
