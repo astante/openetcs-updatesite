@@ -30,7 +30,7 @@ Installation
 Prerequisits
 ------------
 
-* Valid Scade Suite installation
+* Valid Scade Suite installation (API Version 6.5)
 * OpenETCS Toolchain 
 
 Steps
